@@ -1,1 +1,1 @@
-include ':tablayout', ':test'
+include ':lib', ':test'
